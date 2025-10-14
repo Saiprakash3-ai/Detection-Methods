@@ -108,7 +108,7 @@ Export results for further analysis
 
 # Requirements:
 
-    bash
+bash
 
     pip install requests beautifulsoup4 python-whois
 
